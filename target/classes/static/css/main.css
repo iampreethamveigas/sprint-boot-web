@@ -1,0 +1,21 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+.container{
+	display:flex;
+	min-height:100vh;
+	
+}
+.sidebar{
+	width:120px;
+}
+
+.main{
+	flex:1;
+	width:100%;
+}
